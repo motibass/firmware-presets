@@ -1,0 +1,9 @@
+#$ TITLE: Freestyle Modes by P.O.C FPV
+#$ FIRMWARE_VERSION: 4.5
+#$ CATEGORY: MODES
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: POC FPV, MODES
+#$ AUTHOR: P.O.C FPV
+#$ INCLUDE: presets/4.3/modes/defaults.txt
+#$ DESCRIPTION: Modes for my freestyle drones
+

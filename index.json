@@ -6338,6 +6338,22 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.5/modes/freestyle_modes.txt",
+      "hash": "7cfb1d636e0cb0b4e1b833522f0f6ae9de853699a0629f7e16df6242fc69017e",
+      "title": "Freestyle Modes by P.O.C FPV",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "MODES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "POC FPV",
+        "MODES"
+      ],
+      "author": "P.O.C FPV",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.5/osd/freestyle_osd.txt",
       "hash": "25be4443e49a520accc910e01210785a0600a180613c45c88f744b38f9e1d902",
       "title": "Freestyle Vista OSD by P.O.C FPV",

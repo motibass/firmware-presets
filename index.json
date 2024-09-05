@@ -459,6 +459,7 @@
       "Passthrough",
       "pid",
       "PIDtoolbox",
+      "POC FPV",
       "pro32",
       "profile",
       "Pure Race",
@@ -6338,16 +6339,15 @@
     },
     {
       "fullPath": "presets/4.5/osd/freestyle_osd.txt",
-      "hash": "7d4eb28240574d43e9365b2b500714edb8999f4007a866b3b442d19dd0f1118b",
-      "title": "Freestyle OSD",
+      "hash": "50ef72ae2221facee8bebe51ad8cfa7f95ba782bc6d836d294076f5c0053daab",
+      "title": "Freestyle Vista OSD",
       "firmware_version": [
         "4.5"
       ],
       "category": "OSD",
       "status": "COMMUNITY",
       "keywords": [
-        "defaults",
-        "reset",
+        "POC FPV",
         "OSD"
       ],
       "author": "POC FPV",

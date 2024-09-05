@@ -5,6 +5,7 @@
 #$ KEYWORDS: POC FPV, OSD
 #$ AUTHOR: P.O.C FPV
 #$ INCLUDE: presets/4.4/osd/defaults.txt
+#$ DESCRIPTION: OSD for my freestyle drones that have Vista with WTFOS on them.
 
 set osd_units = METRIC
 set osd_warn_bitmask = 270335

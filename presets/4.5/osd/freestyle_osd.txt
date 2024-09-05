@@ -1,9 +1,9 @@
-#$ TITLE: Freestyle Vista OSD
+#$ TITLE: Freestyle Vista OSD by P.O.C FPV
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: POC FPV, OSD
-#$ AUTHOR: POC FPV
+#$ AUTHOR: P.O.C FPV
 #$ INCLUDE: presets/4.4/osd/defaults.txt
 
 set osd_units = METRIC
@@ -27,10 +27,10 @@ set osd_logo_on_arming_duration = 5
 set osd_tim1 = 2560
 set osd_tim2 = 2561
 set osd_vbat_pos = 2172
-set osd_rssi_pos = 341
-set osd_link_quality_pos = 2049
+set osd_rssi_pos = 2049
+set osd_link_quality_pos = 2113
 set osd_link_tx_power_pos = 341
-set osd_rssi_dbm_pos = 1
+set osd_rssi_dbm_pos = 2081
 set osd_rsnr_pos = 341
 set osd_tim_1_pos = 341
 set osd_tim_2_pos = 341
@@ -38,7 +38,7 @@ set osd_remaining_time_estimate_pos = 341
 set osd_flymode_pos = 2064
 set osd_anti_gravity_pos = 341
 set osd_g_force_pos = 341
-set osd_throttle_pos = 93
+set osd_throttle_pos = 3156
 set osd_vtx_channel_pos = 341
 set osd_crosshairs_pos = 2397
 set osd_ah_sbar_pos = 2398
@@ -66,8 +66,8 @@ set osd_power_pos = 341
 set osd_pidrate_profile_pos = 341
 set osd_warnings_pos = 14841
 set osd_avg_cell_voltage_pos = 2204
-set osd_pit_ang_pos = 157
-set osd_rol_ang_pos = 125
+set osd_pit_ang_pos = 3220
+set osd_rol_ang_pos = 3188
 set osd_battery_usage_pos = 341
 set osd_disarmed_pos = 341
 set osd_nheading_pos = 341

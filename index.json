@@ -190,7 +190,7 @@
       "MrAlucardDante",
       "Neil Marek (Grower)",
       "NemesisXB",
-      "POC FPV",
+      "P.O.C FPV",
       "QuadMcFly (Ryan Harrell)",
       "Sartor",
       "Sjoer van der Ploeg",
@@ -6339,8 +6339,8 @@
     },
     {
       "fullPath": "presets/4.5/osd/freestyle_osd.txt",
-      "hash": "50ef72ae2221facee8bebe51ad8cfa7f95ba782bc6d836d294076f5c0053daab",
-      "title": "Freestyle Vista OSD",
+      "hash": "25be4443e49a520accc910e01210785a0600a180613c45c88f744b38f9e1d902",
+      "title": "Freestyle Vista OSD by P.O.C FPV",
       "firmware_version": [
         "4.5"
       ],
@@ -6350,7 +6350,7 @@
         "POC FPV",
         "OSD"
       ],
-      "author": "POC FPV",
+      "author": "P.O.C FPV",
       "priority": 0
     },
     {

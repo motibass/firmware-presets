@@ -4,7 +4,7 @@
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: POC FPV, OSD
 #$ AUTHOR: P.O.C FPV
-#$ INCLUDE: presets/4.4/osd/defaults.txt
+#$ INCLUDE: presets/4.5/osd/defaults.txt
 #$ DESCRIPTION: OSD for my long range drones that have O3 on them.
 
 set osd_units = METRIC
